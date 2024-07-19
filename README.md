@@ -5,11 +5,11 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/parthrajpuranik/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[Customer Performance Report](https://github.com/parthrajpuranik/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/parthrajpuranik/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/parthrajpuranik/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 
-    **3.** Present insights like _[top 10 products](https://github.com/parthrajpuranik/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)_ & _[division report](https://github.com/parthrajpuranik/Excel-Sales-Analytics/blob/main/Division%20Report.pdf)_ & _[new products in 2021](https://github.com/parthrajpuranik/Excel-Sales-Analytics/blob/main/New%20Products%20-%202021.pdf)_ & _[top 5 and bottom 5 products](https://github.com/parthrajpuranik/Excel-Sales-Analytics/blob/main/Top%205%20%26%20Bottom%205%20Products.pdf)_ & _[top 5 countries](https://github.com/parthrajpuranik/Excel-Sales-Analytics/blob/main/Top%205%20Countries%20-%202021.pdf)_
+    **3.** Present insights like _[Top 10 Products](https://github.com/parthrajpuranik/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)_, _[Division Report](https://github.com/parthrajpuranik/Excel-Sales-Analytics/blob/main/Division%20Report.pdf)_, _[New Products in 2021](https://github.com/parthrajpuranik/Excel-Sales-Analytics/blob/main/New%20Products%20-%202021.pdf)_, _[Top 5 and Bottom 5 Products](https://github.com/parthrajpuranik/Excel-Sales-Analytics/blob/main/Top%205%20%26%20Bottom%205%20Products.pdf)_ & _[top 5 countries](https://github.com/parthrajpuranik/Excel-Sales-Analytics/blob/main/Top%205%20Countries%20-%202021.pdf)_
 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
